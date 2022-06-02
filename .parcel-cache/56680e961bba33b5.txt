@@ -1,0 +1,12 @@
+11
+64C:\Users\hmartin\Downloads\ELMINAR\PEC3-HerramientasHTML-CSS\src132986300955088612 1
+73C:\Users\hmartin\Downloads\ELMINAR\PEC3-HerramientasHTML-CSS\node_modules132986297943482038 1
+73C:\Users\hmartin\Downloads\ELMINAR\PEC3-HerramientasHTML-CSS\package.json132986303194290786 0
+79C:\Users\hmartin\Downloads\ELMINAR\PEC3-HerramientasHTML-CSS\src\css\styles.css132986300851690840 0
+67C:\Users\hmartin\Downloads\ELMINAR\PEC3-HerramientasHTML-CSS\src\js132986301053692154 1
+74C:\Users\hmartin\Downloads\ELMINAR\PEC3-HerramientasHTML-CSS\src\js\app,js132986301125289246 0
+68C:\Users\hmartin\Downloads\ELMINAR\PEC3-HerramientasHTML-CSS\src\css132986300773192004 1
+75C:\Users\hmartin\Downloads\ELMINAR\PEC3-HerramientasHTML-CSS\src\index.html132986303542083625 0
+93C:\Users\hmartin\Downloads\ELMINAR\PEC3-HerramientasHTML-CSS\node_modules\react-error-overlay132986297930331873 1
+97C:\Users\hmartin\Downloads\ELMINAR\PEC3-HerramientasHTML-CSS\node_modules\react-error-overlay\lib132986294813400840 1
+106C:\Users\hmartin\Downloads\ELMINAR\PEC3-HerramientasHTML-CSS\node_modules\react-error-overlay\lib\index.js132986294815089078 0
