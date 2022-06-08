@@ -2,14 +2,13 @@
     "name": "my-project",
     "source": "src/index.html",
     "scripts": {
-      "start": "parcel",
-      "build": "parcel build"
+        "start": "parcel",
+        "build": "parcel build"
     },
     "devDependencies": {
-      "parcel": "latest"
+        "parcel": "^2.6.0"
     },
     "dependencies": {
-      "moment": "^2.29.3"
+        "moment": "^2.29.3"
     }
-  }
-  
+}
