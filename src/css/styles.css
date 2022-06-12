@@ -422,7 +422,7 @@ figcaption {
 }
 .enlaces-sublist li  a:hover {
   color:var(--ligth-grey);
-}
+}/*
 .enlace-derecho{
   animation-duration: 3s;
   animation-name: slidein;
@@ -437,7 +437,8 @@ figcaption {
     margin-left: 0%;
     width: 100%;
   }
-}
+}*/
+/*
 .enlace-izquierdo{
   animation-duration: 3s;
   animation-name: slideIzq;
@@ -450,7 +451,7 @@ figcaption {
   to {
     margin-left: 0%;
   }
-}
+}*/
 /*presentacion.html*/
 .main_presentation_content_img_image{
   width: 50%;
